@@ -4,9 +4,9 @@
     "slug": "weather",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon-weather.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weather.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.parseko.weather"
     },
     "web": {
       "favicon": "./assets/favicon.png"
